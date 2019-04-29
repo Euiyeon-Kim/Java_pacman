@@ -6,7 +6,7 @@
 ### Dumb Ghost (Moving randomly)
 ![DumbGhost](https://user-images.githubusercontent.com/40987310/56892384-6f94e100-6aba-11e9-8bdc-12ed4bd181a5.PNG)
 
-### Dumb Ghost (Following the user)
+### Smart Ghost (Following the user)
 ![SmartGhost](https://user-images.githubusercontent.com/40987310/56892388-728fd180-6aba-11e9-9b82-f99a34738e01.PNG)
 
 ### Scoreboard
